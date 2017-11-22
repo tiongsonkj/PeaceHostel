@@ -1,0 +1,58 @@
+.jmbtr-img {
+	background: url(bean2.jpg) #063 no-repeat;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+
+.jmbtr-css {
+	color: white;
+}
+
+.par {
+	width: 1000px; 
+	margin:0 auto;
+	border: none;
+	background: url(halftone-yellow.png);
+	font-family: 'Pacifico', cursive;
+	font-size: 28px;
+}
+
+
+.videoWrapper {
+	position: relative;
+	padding: 0;
+	height: 0;
+	margin-bottom: 20%;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+body {
+	background: url(halftone-yellow.png);
+}
+
+.boxes {
+	margin: 10px;
+}
+
+.card-lb {
+	font-family: 'Pacifico', cursive;
+	font-size: 28px;
+}
+
+.ftr-links {
+	margin-bottom: 5px;
+	padding-bottom: 0;
+	font-size: 12px;
+}
+
+.subscribe-box {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
